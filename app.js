@@ -14,10 +14,10 @@
   "use strict";
 
   const FIREBASE_CONFIG = Object.freeze({
-    projectId: "aurora-vet-care",
+    projectId: "julio-enterprise-suite",
     collection: "atendimentos_petshop",
     storageKey: "fb_enterprise_atendimentos_petshop_v4",
-    apiEndpoint: "https://firestore.googleapis.com/v1/projects/aurora-vet-care/databases/(default)/documents/atendimentos_petshop",
+    apiEndpoint: "https://firestore.googleapis.com/v1/projects/julio-enterprise-suite/databases/(default)/documents/atendimentos_petshop",
     timeoutMs: 4500
   });
 
